@@ -1,0 +1,74 @@
+// ==================
+// FONTS
+// ==================
+
+// Barlow
+$regular: 	'b-regular', 'Helvetica Neue', Arial, sans-serif;
+$medium: 	'b-medium', 'Helvetica Neue', Arial, sans-serif;
+$semibold: 	'b-semibold', 'Helvetica Neue', Arial, sans-serif;
+$bold: 		'b-bold', 'Helvetica Neue', Arial, sans-serif;
+
+// Avenir Next
+$title-bold: 'a-bold';
+$title-bold: 'a-regular';
+
+// ==================
+// FONT SIZES
+// ==================
+$h1-font-size: 3rem;
+$h2-font-size: 2.25rem;
+$h3-font-size: 2rem;
+$h4-font-size: 1.63rem;
+$h5-font-size: 1.38rem;
+$h6-font-size: 1.13rem;
+
+$fz-default: 1rem;
+
+// ==================
+// COLORS
+// ==================
+$primary-color:     #7D50E1;
+$secondary-color:   #60D087;
+
+$red:       #FF585D;
+$red-hover: #EF6668;
+
+$green:			#00B2A9;
+$green-hover:	#4FC8C2;
+
+$white01:	#F9F9F9;
+$white02:	#F4F4F4;
+$white03:	#F0F0F0;
+$white04:	#EFF2F3;
+$white05:	#ECF0F1;
+$white06:	#F0F3F9;
+
+$gray01: #424242;
+$gray02: #B6B6B6;
+$gray03: #E0E0E0;
+$gray04: #F4F4F4;
+$gray05: #979797;
+
+$black01:	#000000;
+$black02:	#111111;
+$black03:	#222222;
+$black04:	#333333;
+$black05:	#444444;
+
+
+// ==================
+// BUTTONS
+// ==================
+$primary-button-bg: $primary-color;
+$primary-button-border: $primary-color;
+$primary-button-bg--hover: rgba($primary-color, 0.75);
+$primary-button-border--hover: rgba($primary-color, 0.75);
+$primary-button-bg--disabled: $gray03;
+$primary-button-border--disabled: $gray05;
+
+$secondary-button-bg: $secondary-color;
+$secondary-button-border: $secondary-color;
+$secondary-button-bg--hover: rgba($secondary-color, 0.75);
+$secondary-button-border--hover: rgba($secondary-color, 0.75);
+$secondary-button-bg--disabled: $gray03;
+$secondary-button-border--disabled: $gray05;

@@ -1,0 +1,22 @@
+body, 
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+a {
+    color: inherit;
+}
+
+
+h1 { font-size: $h1-font-size; }
+h2 { font-size: $h2-font-size; }
+h3 { font-size: $h3-font-size; }
+h4 { font-size: $h4-font-size; }
+h5 { font-size: $h5-font-size; }
+h5 { font-size: $h6-font-size; }
+
+p { font-size: $fz-default; }
