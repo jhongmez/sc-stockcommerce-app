@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { PRIME_COMPONENTS } from 'src/app/prime';
+import { PRIME_COMPONENTS } from '@app/prime';
 
 @Component({
   selector: 'app-home',
