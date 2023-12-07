@@ -1,27 +1,27 @@
-# ScStockcommerceApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+# Stock Commerce
 
-## Development server
+Este sera el frontend del proyecto stockcommerce el cual será implementado con Angular en la version 16, utilzado un sistema modular y otro de standalone components para realizar cargas perezosas (Lazy Loading)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Installation
 
-## Code scaffolding
+Debes de usar NPM para la instalación de dependencias
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+La version de NODE que se uso es la v18.17.1
 
-## Build
+Debes de tener esto claro para evitar errores al momento de hacer instalaciones
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+```bash
+  npm i
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+La libreria a usar para este proyecto es PRIMENG y la version que se uso fue la 16.9.1
 
-## Running end-to-end tests
+Para el tema de grillas y contenedores fue PRIMEFLEX en su version 3.3.1
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Para el tema de iconos hicimos uso de PRIME ICONS en la version 6.0.1
+    
+## Authors
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Desarrollador Frontend [@jhongmez](https://github.com/jhongmez)
